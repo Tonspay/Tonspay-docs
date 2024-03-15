@@ -43,3 +43,12 @@ Currently tonspay are not opensource for the paymenst service . But it will publ
   * Payment action
     * Payment action
     * Payment callback
+* Tonspay webapp
+  * User wallet management  & connection
+  * User invoices & actives managment
+  * Payment actions
+    * Pay invoices
+    * Cancel invoices
+  * Cash gift actions
+    * Gnerate a new cash gift
+    * Deposit money into it&#x20;
