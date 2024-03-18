@@ -14,8 +14,9 @@
 ## 🚂 Demo Working Bot
 
 * [General](demo-working-bot/general.md)
-* [Home Page](demo-working-bot/home-page.md)
-* [Wallet Page](demo-working-bot/wallet-page.md)
+* [Pages](demo-working-bot/pages/README.md)
+  * [Home Page](demo-working-bot/pages/home-page.md)
+  * [Wallet Page](demo-working-bot/pages/wallet-page.md)
 
 ## ⌨️ Develop
 
