@@ -10,13 +10,13 @@
 ## 📱 TONSPAY-WEBAPP
 
 * [General](tonspay-webapp/general.md)
+* [Pages](tonspay-webapp/pages/README.md)
+  * [Home Page](tonspay-webapp/pages/home-page.md)
+  * [Wallet Page](tonspay-webapp/pages/wallet-page.md)
 
 ## 🚂 Demo Working Bot
 
 * [General](demo-working-bot/general.md)
-* [Pages](demo-working-bot/pages/README.md)
-  * [Home Page](demo-working-bot/pages/home-page.md)
-  * [Wallet Page](demo-working-bot/pages/wallet-page.md)
 
 ## ⌨️ Develop
 
