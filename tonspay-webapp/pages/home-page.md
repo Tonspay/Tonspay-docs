@@ -4,7 +4,7 @@ description: Including major functions
 
 # Home Page
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Home page</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Home page</p></figcaption></figure>
 
 ### Home page including&#x20;
 

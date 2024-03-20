@@ -17,6 +17,7 @@
 ## 🚂 Demo Working Bot
 
 * [General](demo-working-bot/general.md)
+* [How to use](demo-working-bot/how-to-use.md)
 
 ## ⌨️ Develop
 
