@@ -22,7 +22,10 @@
 ## ⌨️ Develop
 
 * [Get start](develop/get-start.md)
-* [🎓 Restful Api Interface](develop/restful-api-interface.md)
+* [🎓 Restful Api Interface](develop/restful-api-interface/README.md)
+  * [Payment method management](develop/restful-api-interface/payment-method-management/README.md)
+    * [\[POST\] New payment method](develop/restful-api-interface/payment-method-management/post-new-payment-method.md)
+    * [\[GET\] Get payment method](develop/restful-api-interface/payment-method-management/get-get-payment-method.md)
 * [📬 Web-page Api interface](develop/web-page-api-interface.md)
 * [⏮️ Callback interface](develop/callback-interface/README.md)
   * [Http interface](develop/callback-interface/http-interface.md)
