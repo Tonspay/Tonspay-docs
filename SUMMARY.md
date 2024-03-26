@@ -1,7 +1,7 @@
 # Table of contents
 
 * [😇 Welcome](README.md)
-* [💰Tokenomics](tokenomics.md)
+* [📈 Tokenomics](tokenomics.md)
 
 ## 🤖 Tonspay-Bot
 
