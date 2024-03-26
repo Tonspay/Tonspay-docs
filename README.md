@@ -1,7 +1,5 @@
 ---
-description: >-
-  Tonspay is a crypto payment solution base on Telegram-bot & webapp , support
-  annoymouse payment without KYC.
+description: Best Telegram Crypto Payment Solution
 ---
 
 # 😇 Welcome
