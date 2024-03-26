@@ -35,6 +35,7 @@
   * [Http interface](develop/callback-interface/http-interface.md)
   * [Websocket interface](develop/callback-interface/websocket-interface.md)
   * [Callback ${body}](develop/callback-interface/callback-usd-body.md)
+  * [🖨️ Self host monitor](develop/callback-interface/self-host-monitor.md)
 
 ## 🔗 Links
 
