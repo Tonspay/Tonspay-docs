@@ -16,6 +16,16 @@ Tonspay also working on low-code onboarding , Which should help those un-dev mer
 
 Telegram-bot & Telegram-webapp needs a stable and easy use invoice-base cypto payment system . Anyone can use Tonspay to generate a invoice for crypto payment , and the fund will directly send to merchant's crypto account . No need any KYC .
 
+*   **Native telegram payment user experience**&#x20;
+
+    By using Tonspay , merchant can generate crypto invoice for users to pay in native telegram payment user experience . With the support of deeplink call , user can pay the invoice with mobile wallet easily .
+*   **Fast callback response**&#x20;
+
+    Tonspay run public monitor around different contries . Able to listen onchain faster and translate onchain message into restful request webhook to merchant ontime .
+*   **Fully document interface & SDK**&#x20;
+
+    Docs are quit important for merchant onboard . So Tonspay provide details documents about the api interface . Also , provide different SDK for merchant & telegram-bot developer .&#x20;
+
 ### How Tonspay work
 
 <figure><img src=".gitbook/assets/Tonspay.png" alt=""><figcaption><p>How Tonspay work</p></figcaption></figure>

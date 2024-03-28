@@ -10,9 +10,9 @@ Currently , Tonspay support for `SOLANA` / `ARBITRUM-ETH` / `TON` as the payment
 
 ### Chain code&#x20;
 
-| Chain-Token  | Type-ID | token-ID |
-| ------------ | ------- | -------- |
-| TON-TON      | 0       | 0        |
-| Solana-SOL   | 1       | 0        |
-| Arbitrum-ETH | 2       | 0        |
+| Chain-Token  | Type-ID | Token-ID | Decimails |
+| ------------ | ------- | -------- | --------- |
+| TON-TON      | 0       | 0        | 9         |
+| Solana-SOL   | 1       | 0        | 9         |
+| Arbitrum-ETH | 2       | 0        | 18        |
 
