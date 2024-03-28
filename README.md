@@ -43,6 +43,7 @@ Telegram-bot & Telegram-webapp needs a stable and easy use invoice-base cypto pa
 
 * #### Tonspay Server
   * Restful Interface
+    * New payment method
     * New Invoice
     * Invoice Status
     * Invoice Callback
@@ -51,7 +52,11 @@ Telegram-bot & Telegram-webapp needs a stable and easy use invoice-base cypto pa
     * Account payment method
       * Ln
       * Evm
+        * ARB
+        * Base
+        * Polygon
       * Ton
+      * Sol
       * Tron
 * #### Tonspay Bot
   * Account management

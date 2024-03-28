@@ -1,6 +1,7 @@
 # Table of contents
 
 * [😇 Welcome](README.md)
+* [💰 Price](price.md)
 * [📈 Tokenomics](tokenomics.md)
 
 ## 🤖 Tonspay-Bot
