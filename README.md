@@ -48,8 +48,8 @@ Telegram-bot & Telegram-webapp needs a stable and easy use invoice-base cypto pa
 Pay invoice using Solana
 {% endembed %}
 
-{% embed url="https://youtu.be/8gocfGnS-gY" %}
-Pay invoice using TON
+{% embed url="https://youtu.be/8gocfGnS-gY?si=XsGoHRfcP1csz83R" %}
+Pay invoices using TON
 {% endembed %}
 
 *   **Fast callback response**&#x20;
