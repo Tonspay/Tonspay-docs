@@ -12,6 +12,30 @@ Tonspay supporty for multichains payment , including : **TON** | **SOLANA** | **
 
 Tonspay also working on low-code onboarding , Which should help those un-dev merchant to build it's own telegram-bot online shop using Tonspay as crypto payment solution.
 
+### Functions of Tonspay
+
+Currently , Tonspay support **3 major functions**&#x20;
+
+*   **Invoice payments :**
+
+    Invoice payments including : **merchant generate invoice** , **user pay invoice** , w**ebhook callback merchant .**&#x20;
+
+    Tonspay invoice system provide fully document restful-api and open source demo for any merchant/developer to onboard . Also , Tonspay invoice payment support deeplink call , make user able to pay invoice with **both browser and mobil**e in native telegram payment experience .&#x20;
+*   **Cashgift and group collection**
+
+    Cashgift and group collection including : **user cash gift , group cash gift , group collection/invoice .**
+
+    **Cashgift** allows user to send crypto currency annoymouse to anyone onchain . It will able to make Tonspay have more fission properties .  **Group cashgift** can help those telegram channel master/holder to make it's channel works better by share some cashgift to the member of channel in crypto .&#x20;
+
+    **Group collections** are a simple way to help user in channel to host a payment request to others member . It is similar to group collection in Wechat-pay , allows user to generate invoice to members in channel , and will be tell when the invoices been paid .
+*   **Multichains wallet managements for send/revice .**
+
+    Wallet managements including : s**end crypto to friend without address , recive crypto without address , manage ultichains wallet** .
+
+    Tonspay provide **multichains wallets management** , allows user to connect and sign it's crypto wallet . It will be able to makes a mapping of crypto currency wallet address and the telegram user id by Tonspay, which will help user to transfer crypto to friends by telegram id .
+
+    Also , wallet amangement allows user to manage it's **balance** cross chains . No need to open multi wallet apps to check it's balance anymore . It makes Tonspay to be the decentralized wallet portals in telegram webapps.
+
 ### Why Tonspay&#x20;
 
 Telegram-bot & Telegram-webapp needs a stable and easy use invoice-base cypto payment system . Anyone can use Tonspay to generate a invoice for crypto payment , and the fund will directly send to merchant's crypto account . No need any KYC .
