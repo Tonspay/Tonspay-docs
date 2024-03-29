@@ -1,6 +1,7 @@
 # Table of contents
 
 * [😇 Welcome](README.md)
+* [🚀 Roadmap](roadmap.md)
 * [💰 Price](price.md)
 * [📈 Tokenomics](tokenomics.md)
 
