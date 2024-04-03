@@ -16,6 +16,10 @@
   * [Home Page](tonspay-webapp/pages/home-page.md)
   * [Wallet Page](tonspay-webapp/pages/wallet-page.md)
 
+## ☕ Tonspay-dashboard
+
+* [General](tonspay-dashboard/general.md)
+
 ## 🚂 Demo Working Bot
 
 * [General](demo-working-bot/general.md)
