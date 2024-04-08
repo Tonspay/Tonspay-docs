@@ -8,6 +8,7 @@
 ## 🤖 Tonspay-Bot
 
 * [General](tonspay-bot/general.md)
+* [Crosschain Payment](tonspay-bot/crosschain-payment.md)
 
 ## 📱 TONSPAY-WEBAPP
 
