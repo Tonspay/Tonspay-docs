@@ -4,6 +4,7 @@
 * [🚀 Roadmap](roadmap.md)
 * [💰 Price](price.md)
 * [📈 Tokenomics](tokenomics.md)
+* [✌️ Chain Supports](chain-supports.md)
 
 ## 🤖 Tonspay-Bot
 
