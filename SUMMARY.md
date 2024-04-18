@@ -41,6 +41,7 @@
     * [\[GET\] Get payment method](develop/restful-api-interface/payment-method-management/get-get-payment-method.md)
   * [Invoice management](develop/restful-api-interface/invoice-management/README.md)
     * [\[POST\] New invoice](develop/restful-api-interface/invoice-management/post-new-invoice.md)
+    * [\[POST\] New headless invoice](develop/restful-api-interface/invoice-management/post-new-headless-invoice.md)
     * [\[GET\] Get invoice by id](develop/restful-api-interface/invoice-management/get-get-invoice-by-id.md)
 * [📬 Web-page Api interface](develop/web-page-api-interface.md)
 * [⏮️ Callback interface](develop/callback-interface/README.md)
