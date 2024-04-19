@@ -14,6 +14,7 @@
 ## 🌉 Tonsbridge
 
 * [Genral](tonsbridge/genral.md)
+* [How to use Tonsbridge](tonsbridge/how-to-use-tonsbridge.md)
 
 ## 📱 TONSPAY-WEBAPP
 
