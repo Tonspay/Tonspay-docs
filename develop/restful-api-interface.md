@@ -20,10 +20,24 @@ description: The restfil api system of tonspay
 
 ### Base informations&#x20;
 
-**Base url**
+**Production Base url**
 
 ```
 https://api.tonspay.top/
+```
+
+```
+https://wallet.tonspay.top/api
+```
+
+#### **Testnet Base url**
+
+```
+https://test.tonspay.top/api
+```
+
+```
+https://test-api.tonspay.top/
 ```
 
 **Authenticator**

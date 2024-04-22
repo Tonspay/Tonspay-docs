@@ -41,10 +41,18 @@ You will be able to deocde the signature-data by `tweetnacl` into data `${base64
 },
 ```
 
-Tonspay signature **publick-key** :
+Tonspay signature **publick-key**&#x20;
+
+**Production ENV :**
 
 ```
 ENzsJ58Lmb6GMfMPhsTKm1AYaEoL5Z24r9RVPKaYLyJ6
+```
+
+**Test/Sandbox  ENV :** &#x20;
+
+```
+2885LXvdSb9FYxrr8BD5tgML3hXdWbC33ofT3MWqhZtQ
 ```
 
 **Verfiy logic in js** :
