@@ -30,7 +30,7 @@ NONE
 
 ## Body  :&#x20;
 
-<table><thead><tr><th width="288">Key</th><th>Type</th><th>Data</th></tr></thead><tbody><tr><td>amountToken</td><td>uint</td><td>amount , in token</td></tr><tr><td>amountUsd</td><td>uint</td><td>amount , in usd</td></tr><tr><td>comment</td><td>string</td><td>Some words in invoice</td></tr><tr><td>callback</td><td>string</td><td>Callback path</td></tr><tr><td>type</td><td>int</td><td>ChainId of invoice</td></tr><tr><td>token</td><td>int</td><td>TokenId of invoice</td></tr><tr><td>address</td><td>string</td><td>Reciver address</td></tr><tr><td>label</td><td>string</td><td>Invoice tittle</td></tr><tr><td>timeout</td><td>uint</td><td>Timeout limit to this invoice</td></tr></tbody></table>
+<table><thead><tr><th width="288">Key</th><th>Type</th><th>Data</th></tr></thead><tbody><tr><td>amountToken</td><td>uint</td><td>amount , in token</td></tr><tr><td>amountUsd</td><td>uint</td><td>amount , in usd</td></tr><tr><td>comment</td><td>string</td><td>Some words in invoice</td></tr><tr><td>callback</td><td>string</td><td>Callback path</td></tr><tr><td>type</td><td>int</td><td>ChainId of invoice</td></tr><tr><td>token</td><td>int</td><td>TokenId of invoice</td></tr><tr><td>address</td><td>string</td><td>Reciver address</td></tr><tr><td>label</td><td>string</td><td>Invoice tittle</td></tr><tr><td>timeout</td><td>uint</td><td>Timeout limit to this invoice</td></tr><tr><td>redirect</td><td>string</td><td>The redirect url after user payment .</td></tr></tbody></table>
 
 ## Response :&#x20;
 
