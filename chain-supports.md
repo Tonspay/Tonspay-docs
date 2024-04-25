@@ -14,3 +14,5 @@ Currently Tonspay support for many chains . As list .
 | Binancepay-USD | 3       | 0        | 8         |
 | TRON-TRX       | 4       | 0        | 8         |
 | BSC-BNB        | 5       | 0        | 18        |
+| PLANQ          | 6       | 0        | 18        |
+| Scroll         | 7       | 0        | 18        |
