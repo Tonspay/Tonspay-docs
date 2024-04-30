@@ -12,6 +12,13 @@ Tonspay supporty for multichains payment , including : **TON** | **SOLANA** | **
 
 Tonspay also working on low-code onboarding , Which should help those un-dev merchant to build it's own telegram-bot online shop using Tonspay as crypto payment solution.
 
+### How should i get start ?
+
+If you are a merchant wants to use Tonspay as crypto payment , here are few steps to get start&#x20;
+
+* Go to [Tonspay\_bot](https://t.me/tonspay\_bot) . and type `/keygen` to generate your merchant-api-key
+* Read the api document and start your invoice first&#x20;
+
 ### Functions of Tonspay
 
 Currently , Tonspay support **3 major functions**&#x20;
