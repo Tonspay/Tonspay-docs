@@ -1,22 +1,22 @@
 ---
-description: The core logic of TSP token . Unlaunched yet.
+description: The core logic of TPS token . Unlaunched yet.
 ---
 
 # 📈 Tokenomics
 
-**Tonspay** is powered by the $**TSP** token. We will have a total supply of 1 million tokens .
+**Tonspay** is powered by the $**TPS** token. We will have a total supply of 1 million tokens .
 
 <figure><img src=".gitbook/assets/tokenomic.png" alt=""><figcaption></figcaption></figure>
 
 | Token Name   | Tonspay   |
 | ------------ | --------- |
-| Token Symbol | $TSP      |
+| Token Symbol | $TPS      |
 | Total Supply | 1,000,000 |
 | Tax          | 0/0       |
 
-**TSP** can burned by merchant to prepaid the invoices , which can help reduce the gas & paid of users to paid invoices . Also able to use for burn ase Tonscard service apply .
+**TPS** can burned by merchant to prepaid the invoices , which can help reduce the gas & paid of users to paid invoices . Also able to use for burn ase Tonscard service apply .
 
-| TSP support functions         | Actions |
+| TPS support functions         | Actions |
 | ----------------------------- | ------- |
 | Stake in LP pool for APY      | Stake   |
 | Prepaid invoice               | Burn    |
@@ -26,7 +26,7 @@ description: The core logic of TSP token . Unlaunched yet.
 
 
 
-**Tsp** token will release in mulity chians&#x20;
+**TPS** token will release in mulity chians&#x20;
 
 * TON
 * SOLANA
@@ -45,6 +45,6 @@ Due to not all the chains support prepaid transactions or gas station serivce . 
 
 ## How to prepaid invocies ?&#x20;
 
-As a merchant , you can buy and burn **TSP** token and burn it as require to incressing the prepaid balance .&#x20;
+As a merchant , you can buy and burn **TPS** token and burn it as require to incressing the prepaid balance .&#x20;
 
 The preaid value will be charged using the burning price .&#x20;
