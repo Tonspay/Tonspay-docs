@@ -6,15 +6,13 @@ description: The core logic of TSP token . Unlaunched yet.
 
 **Tonspay** is powered by the $**TSP** token. We will have a total supply of 1 million tokens .
 
-
+<figure><img src=".gitbook/assets/tokenomic.png" alt=""><figcaption></figcaption></figure>
 
 | Token Name   | Tonspay   |
 | ------------ | --------- |
 | Token Symbol | $TSP      |
 | Total Supply | 1,000,000 |
 | Tax          | 0/0       |
-
-<figure><img src=".gitbook/assets/tokenomic small (1).png" alt=""><figcaption></figcaption></figure>
 
 **TSP** can burned by merchant to prepaid the invoices , which can help reduce the gas & paid of users to paid invoices . Also able to use for burn ase Tonscard service apply .
 
