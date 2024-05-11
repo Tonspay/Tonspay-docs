@@ -61,3 +61,4 @@
 * [Dev\&Spport Group](https://t.me/+5GkZeJOXluMxYWVl)
 * [TonsbridgeBot](https://t.me/tonsbridge\_bot)
 * [TonspaySupportBot](https://t.me/tonspaysupport\_bot)
+* [PitchDeck](https://docsend.com/view/madm7g4cic4nfnd5)
