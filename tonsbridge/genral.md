@@ -13,6 +13,8 @@ Tonsbridge is working on building a aggregator of TON bridges , and build for mo
 * [**Official-bridges**](https://bridge.ton.org/)
   * **5 TON + 0.25%**
 * [**Fixfloat**](https://fixedfloat.com/)
+* Simpswap
+* Swapspace
 
 ## How Tonsbridge works ?
 
